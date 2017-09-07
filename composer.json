@@ -1,0 +1,41 @@
+{
+    "name": "stratadox/specification-interfaces",
+    "type": "library",
+    "description": "Interfaces for the Specification Pattern for Php7",
+    "keywords": [
+        "stratadox",
+        "specification",
+        "pattern",
+        "ddd",
+        "satisfiable",
+        "satisfying",
+        "satisfied",
+        "satisfiedBy",
+        "isSatisfiedBy",
+        "specifications",
+        "specifier",
+        "specifying",
+        "condition",
+        "php7",
+        "select",
+        "selector",
+        "filter",
+        "filters",
+        "interface",
+        "interfaces",
+        "contract",
+        "contracts"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stratadox",
+            "homepage": "http://www.stratadox.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Stratadox\\Specification\\Contract\\": "src/"
+        }
+    }
+}
