@@ -7,6 +7,7 @@
         "specification",
         "pattern",
         "ddd",
+        "php7",
         "satisfiable",
         "satisfying",
         "satisfied",
@@ -16,7 +17,6 @@
         "specifier",
         "specifying",
         "condition",
-        "php7",
         "select",
         "selector",
         "filter",
@@ -37,5 +37,8 @@
         "psr-4": {
             "Stratadox\\Specification\\Contract\\": "src/"
         }
+    },
+    "require": {
+        "php": ">=7.0"
     }
 }
